@@ -4,7 +4,7 @@ body {
   background-color: #fafafa;
   color: #333;
   font-family: Arial, sans-serif;
-  background-image: url("Images/background.jpg");
+  background-image: url("/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -238,4 +238,5 @@ footer {
     background-color: #ffcaba;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+
 }
